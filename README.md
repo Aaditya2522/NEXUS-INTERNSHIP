@@ -1,2 +1,2 @@
-# NSP-NEXUS
+# NEXUS (INTERNSHIP)
 Internship Projects
